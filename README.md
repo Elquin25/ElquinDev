@@ -10,10 +10,6 @@
 
 - Cuenta con un menú de navegación el cual permite desplazarse por los diferentes apartados de la aplicación.
 
-## Instalación.
-
-`https://github.com/IgnacioRV23/Pelis-React-App.git`
-
 `npm install`
 
 `npm start`
